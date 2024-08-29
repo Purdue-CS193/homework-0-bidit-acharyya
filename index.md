@@ -1,3 +1,4 @@
+# Bidit Acharyya's First CS193 Homework
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -25,6 +26,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+Favorite things about CS 193:
+- No tests
+- 50 minutes long
+- Interactive
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
